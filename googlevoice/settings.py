@@ -1,17 +1,17 @@
 DEFAULT_CONFIG = """
 [auth]
 # Google Account email address (one associated w/ your Voice account)
-email=
+email=joe@hillegass.in
 
 # Raw password used or login
-password=
+password=Apartment105
 
 # Optional 2-step authentication key (as provided by Google)
 smsKey=
 
 [gvoice]
 # Number to place calls from (eg, your google voice number)
-forwardingNumber=
+forwardingNumber=5109009208
 
 # Default phoneType for your forwardingNumber as defined below
 #  1 - Home
